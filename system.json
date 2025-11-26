@@ -315,7 +315,8 @@
     "languages": [
         {
             "lang": "en",
-            "name": "English"
+            "name": "English",
+            "path": "lang/en.json"
         }
     ],
     "packs": [
